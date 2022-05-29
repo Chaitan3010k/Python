@@ -1,3 +1,5 @@
+#class 108
+
 import cv2
 import mediapipe as mp
 
@@ -81,3 +83,5 @@ while True:
         break
 
 cv2.destroyAllWindows()
+
+###clas 108 ###____________
